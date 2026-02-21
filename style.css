@@ -1,0 +1,6 @@
+@media (min-width: 768px) {
+    .extra-padding {
+        padding-left: 10em !important;
+        padding-right: 10em !important;
+    }
+}
